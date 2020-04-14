@@ -1,6 +1,6 @@
-#Presentación
+# Presentación
 Hola. Me llamo Sebastián Forlizzi, nací en 1999 y esta es mi primera carrera. Soy técnico en programación, en secundaria me familiaricé con C y por mi cuenta jugué con cosas como javascript, css, php, y cosas así.
-Prefiero mantener la calma, soy alguien que prefiere llegar tarde a tener que hacer cosas apurado y alterado. Tal vez en parte por eso sea que me cuesta mucho levantarme de la cama o me quedo dormido sin escuchar la alarma. Me gusta pensar, y opino que el hecho de trabarme en algún problema (sea de ingeniero, de programación, o general) durante provoca que la solución a dicho problema tenga mucho más mérito.
+Soy alguien que prefiere mantener la calma o llegar tarde, antes que tener que hacer cosas apurado. Tal vez en parte por eso sea que me cuesta mucho levantarme de la cama o me quede dormido sin escuchar la alarma. Me gusta pensar, y opino que el hecho de trabarme en algún problema (sea de ingenio, de programación, o general) provoca que la solución a dicho problema tenga mucho más mérito.
 No soy de ver series o películas, porque siento que consumen mucho tiempo. Sin embargo las películas que más me gustaron (de entre las pocas que vi) están:
 - Inception
 - El efecto mariposa
@@ -15,5 +15,5 @@ No tengo muchos pasatiempos, principalmente suelo estudiar la mayor parte del d�
 Destacando sagas como Fire Emblem, Final Fantasy, Castlevania, Megaman (la saga clásica y la X), Phoenix Wright y Profesor Layton, entre otros. Así franquicias como pokemon o kirby. No soy de jugar juegos en línea, pero jugué bastante Elsword.
 
 ![](foto.jpg)
-Tampoco me gusta sacarme fotos.
 
+Tampoco me gusta sacarme fotos.
