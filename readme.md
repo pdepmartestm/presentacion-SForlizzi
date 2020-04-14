@@ -12,8 +12,9 @@ No tengo muchos pasatiempos, principalmente suelo estudiar la mayor parte del d�
 - Final fantasy 7
 - Xenogears
 - The World ends with you (mi favorito)
+
 Destacando sagas como Fire Emblem, Final Fantasy, Castlevania, Megaman (la saga clásica y la X), Phoenix Wright y Profesor Layton, entre otros. Así franquicias como pokemon o kirby. No soy de jugar juegos en línea, pero jugué bastante Elsword.
 
 ![](foto.jpg)
 
-Tampoco me gusta sacarme fotos.
+*Tampoco me gusta sacarme fotos.*
